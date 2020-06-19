@@ -2,6 +2,7 @@
 This project is an example for my blog articles:
 
 [How to translate React application with react-i18next](https://codetain.com/blog/how-to-translate-react-application-with-react-i18next)
+
 [How to translate React application with react-i18next - part 2](https://codetain.com/blog/how-to-translate-react-application-with-react-i18next-part-2)
 
 ## Available Scripts
